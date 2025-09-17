@@ -1,0 +1,7 @@
+{
+  "name": "Mini House Dream Builder",
+  "description": "An app for kids to dream up a miniature house. It generates a 3D design and a simple cutting list for materials, turning their imagination into a fun building project.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
